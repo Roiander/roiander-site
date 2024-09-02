@@ -1,6 +1,6 @@
-# Roiander Portfolio 
+# Roiander Site
 
-This project simulates an interactive terminal where you can type commands to interact with the portfolio.
+This project simulates an interactive terminal where you can type commands to interact with the site.
 
 ## Features
 
