@@ -8,7 +8,7 @@ This project simulates an interactive terminal where you can type commands to in
   - `help`: Displays a list of available commands.
   - `whoami`: Shows a brief description.
   - `youtube`: Opens the YouTube channel in a new tab.
-  - `twitter`: Opens the Twitter account in a new tab.
+  - `x`: Opens the Twitter account in a new tab.
   - `github`: Opens the Github account in a new tab.
   - `coffee`: Opens the Buy Me a Coffee page.
   - `clear`: Clears the screen but keeps the welcome message.
