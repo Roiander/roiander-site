@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
     <li>- <span class="text-green-300">help</span>: Shows this help message.</li>
     <li>- <span class="text-green-300">whoami</span>: About me.</li>
     <li>- <span class="text-green-300">youtube</span>: Opens my YouTube Channel.</li>
-    <li>- <span class="text-green-300">twitter</span>: Opens my Twitter account.</li>
-    <li>- <span class="text-green-300">github</span>: Opens Github.</li>
+    <li>- <span class="text-green-300">x</span>: Opens my Twitter account.</li>
+    <li>- <span class="text-green-300">github</span>: Opens my Github.</li>
     <li>- <span class="text-green-300">coffee</span>: Opens Buy me a Coffee.</li>
     <li>- <span class="text-green-300">clear</span>: Clears the terminal screen.</li>
 </ul>`,
