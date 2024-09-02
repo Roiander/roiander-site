@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const externalLinks = {
         youtube: 'https://www.youtube.com/@Roiander',
-        twitter: 'https://x.com/RoianderDev',
+        x: 'https://x.com/RoianderDev',
         github: 'https://github.com/Roiander',
         coffee: 'https://ko-fi.com/roiander'
     };
